@@ -18,7 +18,7 @@ Toolkit di scraping modulare e robusto in **Python**:
 
 ## 🚀 Installazione
 ```bash
-git clone https://github.com/<TUO_USER>/scraping-plus.git
+git clone https://github.com/Anxiiety/scraping-plus.git
 cd scraping-plus
 python -m venv .venv
 source .venv/bin/activate   # su Windows: .venv\Scripts\activate
