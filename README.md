@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11+-blue" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  <img src="https://img.shields.io/badge/Status-Alpha-orange" alt="Status">
+  <img src="https://img.shields.io/github/stars/<TUO_USER>/scraping-plus?style=social" alt="Stars">
+</p>
+
+
 # Scraping-Plus
 
 Toolkit di scraping modulare e robusto in **Python**:
