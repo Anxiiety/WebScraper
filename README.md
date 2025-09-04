@@ -1,4 +1,4 @@
-# scraping-plus
+# Scraping-Plus
 
 Toolkit di scraping modulare e robusto in **Python**:
 - Rispetta `robots.txt`
